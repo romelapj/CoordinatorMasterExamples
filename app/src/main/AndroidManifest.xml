@@ -20,7 +20,11 @@
             android:name=".activities.TabSimpleCoordinatorLayoutActivity"
             android:label="@string/title_activity_tab_simple_coordinator_layout"
             android:theme="@style/AppTheme" />
-        <activity android:name=".activities.FloatingButtonCoordinatorActivity"></activity>
+        <activity android:name=".activities.FloatingButtonCoordinatorActivity" />
+        <activity
+            android:name=".activities.SimpleCollapsingActivity"
+            android:label="@string/title_activity_simple_collapsing"
+            android:theme="@style/AppTheme"></activity>
     </application>
 
 </manifest>

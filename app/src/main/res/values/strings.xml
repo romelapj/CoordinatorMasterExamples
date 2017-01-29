@@ -2,4 +2,5 @@
     <string name="app_name">Coordinator Master Examples</string>
     <string name="title_activity_tab_simple_coordinator_layout">TabSimpleCoordinatorLayoutActivity
     </string>
+    <string name="title_activity_simple_collapsing">SimpleCollapsingActivity</string>
 </resources>
