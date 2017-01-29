@@ -19,7 +19,8 @@
         <activity
             android:name=".activities.TabSimpleCoordinatorLayoutActivity"
             android:label="@string/title_activity_tab_simple_coordinator_layout"
-            android:theme="@style/AppTheme"></activity>
+            android:theme="@style/AppTheme" />
+        <activity android:name=".activities.FloatingButtonCoordinatorActivity"></activity>
     </application>
 
 </manifest>
